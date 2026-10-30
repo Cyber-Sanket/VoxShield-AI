@@ -1,0 +1,19 @@
+# VoxShield AI - Core Dependencies
+# Python 3.12+ | Windows 11 Compatible
+streamlit>=1.35.0
+librosa>=0.10.1
+soundfile>=0.12.1
+scipy>=1.12.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+plotly>=5.20.0
+scikit-learn>=1.4.0
+joblib>=1.3.0
+pytest>=8.0.0
+
+# Optional PyTorch & Transformers for neural deepfake embeddings
+# (Install per official PyTorch website based on your CUDA version)
+# torch>=2.2.0
+# torchaudio>=2.2.0
+# transformers>=4.40.0
